@@ -1,0 +1,45 @@
+# Build directories
+build/
+Debug/
+Release/
+Out/
+Output/
+Objects/
+Listings/
+
+# Compiled objects and libraries
+*.o
+*.a
+*.elf
+*.map
+*.hex
+*.bin
+*.d
+*.lst
+
+# Firmware images
+*.bn
+
+# Keil artifacts
+*.uvoptx
+*.uvprojx
+*.uvguix
+*.scvd
+
+# IAR artifacts
+*.ewp
+*.eww
+*.ewd
+*.dep
+*.pbd
+*.pds
+settings/
+
+# Eclipse / CubeIDE metadata
+.project
+.cproject
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
